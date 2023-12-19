@@ -1,0 +1,4 @@
+*.pkl
+movie-rec/*.pkl
+movie-rec/venv
+movie-rec/.env
